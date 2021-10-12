@@ -8,7 +8,10 @@ Contact me to do something fun!
 
 
 [![Woojin Kim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wojino&count_private=true)](https://github.com/wojino)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojino&layout=compact&langs_count=8)](https://github.com/wojino)
+
+
 
 
 ### 🏫 I've studied at
@@ -16,5 +19,5 @@ Contact me to do something fun!
 
 ### 🌱 I’m currently learning
 - Modern C++
+- GPGPU(CUDA)
 - Reinforcement Learning
-- GPGPU
