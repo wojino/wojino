@@ -3,7 +3,7 @@
 Contact me!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwojino)](https://github.com/wojino)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wojino.kim@gmail.com)](mailto:wojino.kim@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:wojino.kim@gmail.com)](mailto:wojino.kim@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/wojino/)](https://www.facebook.com/wojino/)
 
 
@@ -13,7 +13,8 @@ Contact me!
 
 
 ### 🏫 I've studied at
-- Gyeongsan Science High School (Mar 2019 ~ Present)
+- Gyeongsan Science High School (Mar 2019 ~ Jan 2021)
+- UNIST(Ulsan National Institute of Science and Technology) (Feb 2021 ~ Present)
 
 ### 🌱 I’m currently learning
 - Modern C++
