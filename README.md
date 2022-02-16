@@ -17,6 +17,6 @@ Contact me!
 - UNIST(Ulsan National Institute of Science and Technology) (Feb 2021 ~ Present)
 
 ### 🌱 I’m currently learning
-- Modern C++
+- Problem Solving
 - GPGPU(CUDA)
 - Reinforcement Learning
