@@ -13,8 +13,8 @@ Contact me!
 
 
 ### 🏫 I've studied at
-- Gyeongsan Science High School (Mar 2019 ~ Jan 2021)
 - UNIST(Ulsan National Institute of Science and Technology) (Feb 2021 ~ Present)
+- Gyeongsan Science High School (Mar 2019 ~ Jan 2021)
 
 ### 🌱 I’m currently learning
 - Problem Solving
