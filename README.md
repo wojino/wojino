@@ -19,4 +19,5 @@ Contact me!
 ### 🌱 I’m currently learning
 - Problem Solving
 - GPGPU(CUDA)
-- Reinforcement Learning
+- Machine Learning
+- Deep Learning
